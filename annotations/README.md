@@ -1,0 +1,1 @@
+This is where the COCO dataset annotations should go.
